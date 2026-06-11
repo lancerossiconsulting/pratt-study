@@ -164,7 +164,7 @@ I leave the article with three open empirical questions for the field: *Does sup
 
 <div class="references" markdown="1">
 
-Bennett, W. L., & Segerberg, A. (2013). [*The Logic of Connective Action: Digital Media and the Personalization of Contentious Politics*](https://www.cambridge.org/core/books/logic-of-connective-action/). Cambridge University Press.
+Bennett, W. L., & Segerberg, A. (2013). [*The Logic of Connective Action: Digital Media and the Personalization of Contentious Politics*](https://www.cambridge.org/core/books/logic-of-connective-action/6B54DBBEAD1625C2778F8D80A17D58E1). Cambridge University Press.
 
 Center for Media Engagement. (2024). [*Political Machines: Understanding the Role of AI in the U.S. 2024 Elections and Beyond*](https://mediaengagement.org/research/generative-ai-elections-and-beyond/). University of Texas at Austin.
 

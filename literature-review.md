@@ -27,7 +27,7 @@ Entries are grouped into four sections: theoretical and scholarly sources, prima
 <div class="lit-entry">
 <h3>The Logic of Connective Action: Digital Media and the Personalization of Contentious Politics</h3>
 <p class="lit-citation">Bennett, W. L., &amp; Segerberg, A. (2013). Cambridge University Press.</p>
-<a class="lit-link" href="https://www.cambridge.org/core/books/logic-of-connective-action/">cambridge.org</a>
+<a class="lit-link" href="https://www.cambridge.org/core/books/logic-of-connective-action/6B54DBBEAD1625C2778F8D80A17D58E1">cambridge.org</a>
 <p class="relevance"><strong>Foundation for the supporter-generated content account.</strong> Bennett and Segerberg&rsquo;s characterization of loose, identity-anchored, personalized political expression at scale is the closest theoretical predecessor to what supporter-generated AI content does. The conference paper uses connective action to explain why supporters produce political media without coordination, while extending the framework to address the production asymmetry generative AI introduces between connective actors with different production skills.</p>
 </div>
 
@@ -54,7 +54,7 @@ Entries are grouped into four sections: theoretical and scholarly sources, prima
 
 <div class="lit-entry">
 <h3>Computational journalism and AI-mediated political information</h3>
-<p class="lit-citation">Diakopoulos, N. (various). Northwestern University Computational Journalism Lab.</p>
+<p class="lit-citation">Diakopoulos, N. (various). Northwestern University Computational Journalism Lab. <em>(URL no longer resolves)</em></p>
 <a class="lit-link" href="https://www.computationaljournalism.com/">computationaljournalism.com</a>
 <p class="relevance"><strong>Methodological baseline for AI-mediated political content.</strong> Diakopoulos&rsquo;s work is the closest available scholarly research program on how AI is restructuring political-information production. His lab&rsquo;s outputs are cited as a referent for the tech-policy framing of supporter-generated AI media, especially in the attribution-and-accountability section of the conference paper.</p>
 </div>
@@ -336,7 +336,7 @@ Entries are grouped into four sections: theoretical and scholarly sources, prima
 <div class="lit-entry">
 <h3>Ballotpedia — Mayoral election in Los Angeles, California (2026)</h3>
 <p class="lit-citation">Civic information reference.</p>
-<a class="lit-link" href="https://ballotpedia.org/Mayoral_election_in_Los_Angeles,California(2026)">ballotpedia.org</a>
+<a class="lit-link" href="https://ballotpedia.org/Mayoral_election_in_Los_Angeles,_California_(2026)">ballotpedia.org</a>
 <p class="relevance"><strong>Civic information baseline for the race.</strong> Used as a reference for the broader electoral context.</p>
 </div>
 
