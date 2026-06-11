@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article>
+  <header class="article-header">
+    {% if page.kicker %}<p class="kicker">{{ page.kicker }}</p>{% endif %}
+    {% if page.meta %}<p class="article-meta">{{ page.meta }}</p>{% endif %}
+    <h1 class="article-title">{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="article-dek">{{ page.subtitle }}</p>{% endif %}
+  </header>
+  <div class="article-body{% if page.dropcap == false %} no-dropcap{% endif %}">
+{{ content }}
+  </div>
+</article>

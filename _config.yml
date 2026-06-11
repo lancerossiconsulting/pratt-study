@@ -1,0 +1,30 @@
+title: Pratt Study
+description: Supporter-generated AI political media and the 2026 Los Angeles mayoral race.
+author: Lance Rossi
+url: "https://lancerossiconsulting.github.io"
+baseurl: "/pratt-study"
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - .gitignore
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

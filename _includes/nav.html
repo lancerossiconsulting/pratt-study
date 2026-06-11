@@ -1,0 +1,13 @@
+<header class="site-nav">
+  <div class="nav-inner">
+    <a class="site-wordmark" href="{{ '/' | relative_url }}">Pratt Study</a>
+    <nav class="nav-links" aria-label="Site">
+      <a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/journal-article/' | relative_url }}"{% if page.url == "/journal-article/" %} aria-current="page"{% endif %}>Journal Article</a>
+      <a href="{{ '/conference-paper/' | relative_url }}"{% if page.url == "/conference-paper/" %} aria-current="page"{% endif %}>Conference Paper</a>
+      <a href="{{ '/substack/' | relative_url }}"{% if page.url == "/substack/" %} aria-current="page"{% endif %}>Substack</a>
+      <a href="{{ '/literature-review/' | relative_url }}"{% if page.url == "/literature-review/" %} aria-current="page"{% endif %}>Literature Review</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == "/about/" %} aria-current="page"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>
