@@ -19,4 +19,5 @@ Each piece in the package is available for download. Word and PDF copies are gen
   <li><a href="{{ '/downloads/pratt-study-practice-brief.pdf' | relative_url }}">Practice Brief</a><span class="format">PDF</span></li>
   <li><a href="{{ '/downloads/pratt-study-slides.pptx' | relative_url }}">Slide Skeleton — NCA Talk</a><span class="format">PowerPoint</span></li>
   <li><a href="{{ '/downloads/pratt-study-podcast-outline.md' | relative_url }}">Podcast Outline</a><span class="format">Markdown</span></li>
+  <li><a href="{{ '/downloads/pratt-study-qr.png' | relative_url }}">Site QR Code</a><span class="format">PNG, print resolution</span></li>
 </ul>

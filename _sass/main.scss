@@ -458,3 +458,24 @@ pre {
   line-height: 1.55;
   color: var(--text-muted);
 }
+/* ---- digital production: superscript direct-link citations + QR ---- */
+.article-body sup { line-height: 0; }
+.article-body a.cite,
+.article-body a.cite:hover { text-decoration: none; }
+.article-body a.cite sup { font-size: 0.72em; }
+.article-body a.cite em {
+  font-style: italic;
+  font-family: var(--serif);
+  font-weight: 600;
+  color: var(--teal);
+  padding: 0 0.05em;
+}
+.article-body a.cite:hover em { color: var(--coral); }
+.qr-block { margin: 2.5rem 0 0; }
+.qr-block img { width: 148px; height: 148px; display: block; margin-bottom: 0.6rem; }
+.qr-caption {
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+}

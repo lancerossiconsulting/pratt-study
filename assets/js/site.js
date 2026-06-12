@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (a.host === location.host) return;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
+    if (a.classList.contains('cite')) return; // citation superscripts carry their own marker
     var m = document.createElement('span');
     m.className = 'ext';
     m.setAttribute('aria-hidden', 'true');

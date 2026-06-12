@@ -23,3 +23,10 @@ The Pratt Study began in spring 2026 as a conference paper for the National Comm
 ## A note on versions
 
 All writing on this site is the author's working draft and subject to revision. If you cite this work, include the access date and the version note in each article's metadata block; the repository's commit history is the authoritative version record.
+
+## On your phone
+
+<div class="qr-block">
+  <img src="{{ '/assets/qr-pratt-study.svg' | relative_url }}" alt="QR code linking to this site" width="148" height="148">
+  <p class="qr-caption">Scan to open this site on a phone. A print-resolution copy for conference materials is on the <a href="{{ '/downloads/' | relative_url }}">Downloads page</a>.</p>
+</div>
