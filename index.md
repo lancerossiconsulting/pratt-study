@@ -37,6 +37,10 @@ This site collects the academic and public-facing writing on the 2026 Los Angele
     <span class="desc">Episode-length conversational version of the argument.</span>
   </div>
   <div class="piece">
+    <a href="{{ '/infographics/' | relative_url }}">Infographics</a>
+    <span class="desc">Visual exhibits — the production typology and the four artifacts of the race.</span>
+  </div>
+  <div class="piece">
     <a href="{{ '/downloads/' | relative_url }}">Downloads</a>
     <span class="desc">.docx, .pdf, and .pptx versions of each piece.</span>
   </div>
